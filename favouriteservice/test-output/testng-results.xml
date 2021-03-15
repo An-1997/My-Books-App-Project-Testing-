@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-10T08:01:21 UTC" name="Default suite" finished-at="2021-03-10T08:01:24 UTC" duration-ms="3111">
+    <groups>
+    </groups>
+    <test started-at="2021-03-10T08:01:21 UTC" name="Default test" finished-at="2021-03-10T08:01:24 UTC" duration-ms="3111">
+      <class name="com.stackroute.favouriteservice.controller.BookControllerTest">
+        <test-method signature="saveBookTest()[pri:1, instance:com.stackroute.favouriteservice.controller.BookControllerTest@67a20f67]" started-at="2021-03-10T08:01:21 UTC" name="saveBookTest" finished-at="2021-03-10T08:01:24 UTC" duration-ms="2581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveBookTest -->
+        <test-method signature="test_BookAlreadyExists()[pri:2, instance:com.stackroute.favouriteservice.controller.BookControllerTest@67a20f67]" started-at="2021-03-10T08:01:24 UTC" name="test_BookAlreadyExists" finished-at="2021-03-10T08:01:24 UTC" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_BookAlreadyExists -->
+        <test-method signature="test_getMyFavouriteBooks()[pri:3, instance:com.stackroute.favouriteservice.controller.BookControllerTest@67a20f67]" started-at="2021-03-10T08:01:24 UTC" name="test_getMyFavouriteBooks" finished-at="2021-03-10T08:01:24 UTC" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getMyFavouriteBooks -->
+        <test-method signature="test_deleteBooksFromFavourite()[pri:4, instance:com.stackroute.favouriteservice.controller.BookControllerTest@67a20f67]" started-at="2021-03-10T08:01:24 UTC" name="test_deleteBooksFromFavourite" finished-at="2021-03-10T08:01:24 UTC" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteBooksFromFavourite -->
+        <test-method signature="test_deleteBooksFailure()[pri:5, instance:com.stackroute.favouriteservice.controller.BookControllerTest@67a20f67]" started-at="2021-03-10T08:01:24 UTC" name="test_deleteBooksFailure" finished-at="2021-03-10T08:01:24 UTC" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteBooksFailure -->
+        <test-method signature="test_getMyFavouriteBooksFailure()[pri:6, instance:com.stackroute.favouriteservice.controller.BookControllerTest@67a20f67]" started-at="2021-03-10T08:01:24 UTC" name="test_getMyFavouriteBooksFailure" finished-at="2021-03-10T08:01:24 UTC" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getMyFavouriteBooksFailure -->
+      </class> <!-- com.stackroute.favouriteservice.controller.BookControllerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-10T07:30:15 UTC" name="Default suite" finished-at="2021-03-10T07:30:18 UTC" duration-ms="3091">
+    <groups>
+    </groups>
+    <test started-at="2021-03-10T07:30:15 UTC" name="Default test" finished-at="2021-03-10T07:30:18 UTC" duration-ms="3091">
+      <class name="com.stackroute.userservice.controller.AuthenticationControllerTest">
+        <test-method signature="test_registerUser()[pri:1, instance:com.stackroute.userservice.controller.AuthenticationControllerTest@10e41621]" started-at="2021-03-10T07:30:15 UTC" name="test_registerUser" finished-at="2021-03-10T07:30:18 UTC" duration-ms="2698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_registerUser -->
+        <test-method signature="test_loginUser()[pri:2, instance:com.stackroute.userservice.controller.AuthenticationControllerTest@10e41621]" started-at="2021-03-10T07:30:18 UTC" name="test_loginUser" finished-at="2021-03-10T07:30:18 UTC" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_loginUser -->
+        <test-method signature="test_loginUser1()[pri:3, instance:com.stackroute.userservice.controller.AuthenticationControllerTest@10e41621]" started-at="2021-03-10T07:30:18 UTC" name="test_loginUser1" finished-at="2021-03-10T07:30:18 UTC" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_loginUser1 -->
+        <test-method signature="test_loginUser2()[pri:4, instance:com.stackroute.userservice.controller.AuthenticationControllerTest@10e41621]" started-at="2021-03-10T07:30:18 UTC" name="test_loginUser2" finished-at="2021-03-10T07:30:18 UTC" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_loginUser2 -->
+        <test-method signature="test_loginUser3()[pri:5, instance:com.stackroute.userservice.controller.AuthenticationControllerTest@10e41621]" started-at="2021-03-10T07:30:18 UTC" name="test_loginUser3" finished-at="2021-03-10T07:30:18 UTC" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_loginUser3 -->
+        <test-method signature="test_registerUser1()[pri:6, instance:com.stackroute.userservice.controller.AuthenticationControllerTest@10e41621]" started-at="2021-03-10T07:30:18 UTC" name="test_registerUser1" finished-at="2021-03-10T07:30:18 UTC" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_registerUser1 -->
+        <test-method signature="test_registerUser_with_no_userid_or_password()[pri:7, instance:com.stackroute.userservice.controller.AuthenticationControllerTest@10e41621]" started-at="2021-03-10T07:30:18 UTC" name="test_registerUser_with_no_userid_or_password" finished-at="2021-03-10T07:30:18 UTC" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_registerUser_with_no_userid_or_password -->
+      </class> <!-- com.stackroute.userservice.controller.AuthenticationControllerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
